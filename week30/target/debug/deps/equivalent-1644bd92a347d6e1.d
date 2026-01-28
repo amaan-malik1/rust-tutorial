@@ -1,0 +1,7 @@
+/home/aman/rust-bootcamp/week30/target/debug/deps/equivalent-1644bd92a347d6e1.d: /home/aman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs
+
+/home/aman/rust-bootcamp/week30/target/debug/deps/libequivalent-1644bd92a347d6e1.rlib: /home/aman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs
+
+/home/aman/rust-bootcamp/week30/target/debug/deps/libequivalent-1644bd92a347d6e1.rmeta: /home/aman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs
+
+/home/aman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs:
